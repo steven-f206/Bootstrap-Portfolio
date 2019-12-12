@@ -46,11 +46,11 @@ body{
     height: 100%;
 }
 
-/* h5 {
-    position: absolute;
+h5 {
+    position: relative;
     bottom: 20px;
     width: 100%;
-    padding: 15px;
+    padding: 5px;
     margin-bottom: 0;
     font-weight: 300;
     line-height: 30px;
