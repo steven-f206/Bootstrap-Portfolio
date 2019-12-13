@@ -1,9 +1,16 @@
+.container {
+    padding: 30px 30px 30px 30px;
+    margin-left: 5%;
+    margin-top: 20px;
+    background: url('../images/so-white.png');
+    border: 5px solid #4aaaa5;
+}
+
 h1 {
     background-color: #4aaaa5;
     padding: 35px 10px 30px 20px;
     margin-top: 0;
     color: white;
-    /* width: 250px; */
     margin-bottom: 0;
     float: left;
     margin-left: 10%;
@@ -22,14 +29,12 @@ h2 {
 
 footer {
     background-color: grey;
-    /* flex-shrink: 0; */
     border-top-style: solid;
     border-top-width: 8px;
     border-top-color: #4aaaa5;
     text-align: center;
     padding: 50px 0px 0px 0px;
     color: white;
-    /* margin: 0px 0px 0px 0px; */
     width: 100%;
     margin-bottom: 0;
 }
@@ -43,6 +48,7 @@ p {
 }
 
 body{
+    background-color: dimgray;
     height: 100%;
 }
 
@@ -58,4 +64,8 @@ h5 {
     text-align: center;
     background: #4aaaa5;
     border-bottom: 0;
+  }
+
+  #profile-pic {
+   
   }
